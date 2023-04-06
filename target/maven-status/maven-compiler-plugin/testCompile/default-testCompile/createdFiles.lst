@@ -1,0 +1,5 @@
+LoginWebTests.class
+ApiTests\LoginTests.class
+ApiTests\PostsTests.class
+AbstractWebTest.class
+ApiTests\AbstractTest.class

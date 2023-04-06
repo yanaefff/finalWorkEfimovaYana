@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: LoginWebTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.18 s <<< FAILURE! - in LoginWebTests
+LoginWebTests  Time elapsed: 3.18 s  <<< ERROR!
+org.openqa.selenium.remote.http.ConnectionFailedException: 
+Unable to establish websocket connection to http://localhost:54102/devtools/browser/3f109858-2437-4acd-b13f-890117df8708
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'LAPTOP-LT4L3EMC', ip: '172.30.3.132', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: driver.version: ChromeDriver
+

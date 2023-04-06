@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Test set: ApiTests.PostsTests
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 17.027 s <<< FAILURE! - in ApiTests.PostsTests
+MyPostswrongpagevalue  Time elapsed: 1.384 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <500> but was <200>.
+
+	at ApiTests.PostsTests.MyPostswrongpagevalue(PostsTests.java:249)
+
+MyPostsASCpage1  Time elapsed: 1.351 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <4> but was: <10>
+	at ApiTests.PostsTests.MyPostsASCpage1(PostsTests.java:159)
+
+OwnerNotMeALL  Time elapsed: 1.229 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <500>.
+
+	at ApiTests.PostsTests.OwnerNotMeALL(PostsTests.java:77)
+
+MyPostswrongsortvalue  Time elapsed: 1.281 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <500> but was <200>.
+
+	at ApiTests.PostsTests.MyPostswrongsortvalue(PostsTests.java:285)
+

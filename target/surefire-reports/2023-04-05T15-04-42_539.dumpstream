@@ -1,0 +1,33 @@
+# Created at 2023-04-05T15:04:42.540
+SLF4J: No SLF4J providers were found.
+
+# Created at 2023-04-05T15:04:42.542
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+# Created at 2023-04-05T15:04:42.542
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+
+# Created at 2023-04-05T15:04:42.543
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+
+# Created at 2023-04-05T15:04:42.543
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/yana_/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2023-04-05T15:04:42.543
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+
+# Created at 2023-04-05T15:04:53.993
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2023-04-05T15:04:53.993
+WARNING: Illegal reflective access by org.codehaus.groovy.vmplugin.v9.Java9 (file:/C:/Users/yana_/.m2/repository/org/codehaus/groovy/groovy/3.0.9/groovy-3.0.9.jar) to constructor java.lang.AssertionError(java.lang.String)
+
+# Created at 2023-04-05T15:04:53.994
+WARNING: Please consider reporting this to the maintainers of org.codehaus.groovy.vmplugin.v9.Java9
+
+# Created at 2023-04-05T15:04:53.994
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2023-04-05T15:04:53.995
+WARNING: All illegal access operations will be denied in a future release
+
